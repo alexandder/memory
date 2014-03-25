@@ -1,0 +1,19 @@
+
+#gamebox {
+	display: inline;
+}
+
+div {
+	float: left;
+	padding: 10px 10px 10px 10px;
+}
+
+div img {
+	border: 2px solid #f0017d;
+	
+}
+
+
+#clicksNumber {
+	font: 20px blue;
+}
